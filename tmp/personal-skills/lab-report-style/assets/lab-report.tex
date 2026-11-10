@@ -1,0 +1,53 @@
+% Personal lab report style based on the retained LSAU reference.
+% Set the metadata commands for the current assignment before delivery.
+\documentclass[12pt,a4paper]{article}
+\usepackage{cmap}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{amsmath,amssymb,geometry,graphicx,float,hyperref,array,longtable}
+\usepackage[labelfont=bf]{caption}
+\geometry{left=20mm,right=20mm,top=20mm,bottom=20mm}
+\captionsetup{skip=5pt}
+\captionsetup[table]{justification=raggedright,singlelinecheck=false}
+\addto\captionsrussian{\renewcommand{\figurename}{Рисунок}}
+\hypersetup{hidelinks}
+\setlength{\emergencystretch}{2em}
+\setlength{\intextsep}{8pt}
+\makeatletter
+\def\tagform@#1{\maketag@@@{\ignorespaces#1\unskip\@@italiccorr}}
+\makeatother
+
+% Empty number or variant is omitted. Replace the topic for each assignment.
+\newcommand{\labnumber}{}
+\newcommand{\labtopic}{Тема лабораторной работы}
+\newcommand{\labvariant}{}
+\newcommand{\labauthor}{Иванов Никита Михайлович}
+\newcommand{\labgroup}{R3436}
+% Replace with the requested date or the user's current local date.
+\newcommand{\labdate}{\today}
+
+\title{Лабораторная работа\ifx\labnumber\empty\else~№\labnumber\fi\\
+\labtopic\ifx\labvariant\empty\else\\Вариант \labvariant\fi}
+\author{\labauthor\ifx\labgroup\empty\else\\Группа \labgroup\fi}
+\date{\labdate}
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+\section{Постановка задачи}
+% Replace this outline with the current assignment, not the reference content.
+
+\section{Выполнение работы}
+% Adapt subsections and include only calculations required by the assignment.
+% For a numbered formula use the equation environment.
+% For a figure use figure, centering, includegraphics and caption.
+% Use tabular or longtable without coloured fills for numerical tables.
+
+\section{Выводы}
+% State conclusions supported by the current calculations and observations.
+
+\end{document}

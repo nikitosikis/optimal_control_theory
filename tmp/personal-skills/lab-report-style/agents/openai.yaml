@@ -1,0 +1,5 @@
+interface:
+  display_name: "Оформление лабораторных"
+  short_description: "Личный стиль всех лабораторных по образцу ЛСАУ"
+policy:
+  allow_implicit_invocation: true

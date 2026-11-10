@@ -1,0 +1,168 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(report.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd)<
+<t2a.cmap>>)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ru\ba
+bel-russian.tex)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russia
+nb.ldf))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+ (C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+ (C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty)
+)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
+y))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+ (C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y (C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def)))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
+y
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.
+sty)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
+inekeys.sty)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescap
+e.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
+y)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexc
+mds.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarer
+r.sty)))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
+y)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\get
+titlestring.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.
+sty)))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.st
+y)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringen
+c.sty)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.st
+y)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintc
+alc.sty)))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
+filecheck.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniq
+uecounter.sty)))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty)
+ (C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.st
+y))
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
+pdftex.def)
+(C:\Users\jopajack\Desktop\тоу\Лаба1_вариант11\results\tex_build\
+report.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg))
+(C:\Users\jopajack\Desktop\тоу\Лаба1_вариант11\results\tex_build\
+report.out)
+(C:\Users\jopajack\Desktop\тоу\Лаба1_вариант11\results\tex_build\
+report.out)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\jopajack\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+[1{C:/Users/jopajack/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(C:\Users\jopajack\Desktop\тоу\Лаба1_вариант11\results\tex_build\
+report.toc) [2] [3] [4] [5] [6] [7] [8] [9 <./results/constraints.png (PNG copy
+)> <./results/trajectories.png (PNG copy)>] [10 <./results/descent.png (PNG cop
+y)>]
+(C:\Users\jopajack\Desktop\тоу\Лаба1_вариант11\results\tex_build\
+report.aux)
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ ) <C:\Users\jopajack\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lar
+m1000.pk> <C:\Users\jopajack\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\larm1095.pk> <C:\Users\jopajack\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
+t2a/dpi600\labx1440.pk> <C:\Users\jopajack\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\jopajack\AppData\Local\MiKTeX\fonts/pk
+/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\jopajack\AppData\Local\MiKTeX\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\jopajack\AppData\Local\M
+iKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\jopajack\AppData\
+Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk><C:/Users/jopajack/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users
+/jopajack/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb><C:/Users/jopajack/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><C:/Users/jopajack/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><C:/Users/jopajack/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/jopajack/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jopajack/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jopajack/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/
+jopajack/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Users/jopajack/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmss8.pfb><C:/Users/jopajack/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Users/jopajack/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jopajack/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on C:\Users\jopajack\Desktop\тоу\Лаба1_вариант11\r
+esults\tex_build\report.pdf (10 pages, 831587 bytes).
+Transcript written on C:\Users\jopajack\Desktop\тоу\Лаба1_вариант
+11\results\tex_build\report.log.
+pdflatex: major issue: So far, you have not checked for MiKTeX updates.
